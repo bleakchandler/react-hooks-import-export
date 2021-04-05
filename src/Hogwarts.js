@@ -3,6 +3,7 @@ import whoseHouse from "./houses/HagridsHouse";
 import HooflePoof from "./houses/Hufflepuff";
 import * as GryffFunctions from "./houses/Gryffindor";
 
+
 GryffFunctions.colors();
 // => 'Scarlet and Gold'
 
